@@ -1,0 +1,15 @@
+name: SuperTags
+version: '${project.version}'
+main: org.romiiis.crazytags.CrazyTags
+api-version: '1.20'
+author: Romiiis
+depend: [Vault]
+description: A plugin that allows you to create tags.
+commands:
+    crazytags:
+        description: CrazyTags command.
+        usage: /crazytags <sub-command>
+        aliases: [ct]
+        permission-message: You don't have permission to use this command.
+
+

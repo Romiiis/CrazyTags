@@ -1,0 +1,75 @@
+#----------------x----------------#
+#This is the file where you can edit the tags.
+# author: Romiiis
+# version: 1.0
+#----------------x----------------#
+
+#You can add as many tags as you want.
+# Write it like this:
+# tagid: (!IMPORTANT! this is the tag id and it must be unique)
+#   name: '&cTagName'
+#   description: '&7This is the tag description.'
+#   prefix: '&c&l[TagName]'
+#   price: price
+
+Tags:
+  t_owner:
+    name: '&4Owner'
+    description: '&7This is the owner tag.'
+    prefix: '&4&l[Owner]'
+    price: 100.1
+  t_admin:
+    name: '&cAdmin'
+    description: '&7This is the admin tag.'
+    prefix: '&c&l[Admin]'
+    price: 100.1
+  t_mod:
+    name: '&2Mod'
+    description: '&7This is the mod tag.'
+    prefix: '&2&l[Mod]'
+    price: 100.1
+  t_helper:
+    name: '&9Helper'
+    description: '&7This is the helper tag.'
+    prefix: '&9&l[Helper]'
+    price: 125.1
+  t_dev:
+    name: '&bDev'
+    description: '&7This is the dev tag.'
+    prefix: '&b&l[Dev]'
+    price: 150.1
+  t_builder:
+    name: '&aBuilder'
+    description: '&7This is the builder tag.'
+    prefix: '&a&l[Builder]'
+    price: 175.1
+  t_youtuber:
+    name: '&5Youtuber'
+    description: '&7This is the youtuber tag.'
+    prefix: '&5&l[Youtuber]'
+    price: 200.1
+  t_vip:
+    name: '&6VIP'
+    description: '&7This is the vip tag.'
+    prefix: '&6&l[VIP]'
+    price: 225.1
+  t_mvp:
+    name: '&eMVP'
+    description: '&7This is the mvp tag.'
+    prefix: '&e&l[MVP]'
+    price: 250.1
+  t_mvp_plus:
+    name: '&dMVP+'
+    description: '&7This is the mvp+ tag.'
+    prefix: '&d&l[MVP+]'
+    price: 275.1
+  t_mvp_plus_plus:
+    name: '&dMVP++'
+    description: '&7This is the mvp++ tag.'
+    prefix: '&d&l[MVP++]'
+    price: 300.1
+  t_default:
+    name: '&7Default'
+    description: '&7This is the default tag.'
+    prefix: '&7&l[Player]'
+    price: 0.0

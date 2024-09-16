@@ -1,0 +1,28 @@
+#This is config file
+
+#-------------------x-------------------#
+# CrazyTags by Romiiis
+# version: 1.0
+#-------------------x-------------------#
+
+database:
+
+  # The database type. (sqlite, mysql)
+  type: "sqlite"
+
+  # If you are using MySQL, you need to fill in the following information.
+
+  # The host of the MySQL server.
+  host: "localhost"
+
+  # The port of the MySQL server.
+  port: 3306
+
+  # The username of the MySQL server.
+  username: "root"
+
+  # The password of the MySQL server.
+  password: ""
+
+  # The name of the MySQL database.
+  database: "MyDatabase"
